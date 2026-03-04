@@ -32,3 +32,6 @@ O Pull Request solicita a inclusão das alterações no projeto principal.
 
 ## Realização de Merge
 O Merge junta as alterações ao projeto principal.
+
+## Atualização
+Alteração feita na branch desenvolvimento.
